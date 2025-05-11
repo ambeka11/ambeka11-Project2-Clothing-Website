@@ -16,13 +16,5 @@ AhaZ is a visually striking, modern clothing website built using **React** and *
 - **Tailwind CSS** — Utility-first styling for fast and flexible design
 - **React Icons** — Icon integration for modern visuals
 
-## 📸 Screenshots
 
-> _Add screenshots here if available_
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/ahaz-clothing.git
 
